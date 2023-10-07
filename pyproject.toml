@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "semantic-release-pypi-pyproject"
-version = "0.0.1"
+version = "1.0.1"
 description = "semantic-release-pypi template"
 readme = "README.md"
 license = "MIT"
